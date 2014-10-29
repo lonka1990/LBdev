@@ -1,4 +1,4 @@
 LBdev
 =====
 
-AT070tN92 powerd by SAM3SD8B
+AT070TN92 powered by SAM3SD8B
